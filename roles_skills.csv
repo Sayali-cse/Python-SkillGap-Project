@@ -1,0 +1,13 @@
+role,skill,required_level
+Python Developer,Python Basics,3
+Python Developer,OOP,2
+Python Developer,Data Structures,2
+Data Analyst,SQL,3
+Data Analyst,Statistics,2
+Data Analyst,Pandas,3
+Software Tester,Testing Basics,3
+Software Tester,Bug Reporting,2
+Software Tester,Test Automation,2
+Network Engineer,Networking Basics,3
+Network Engineer,IP Addressing,2
+Network Engineer,Network Security,2

@@ -1,0 +1,39 @@
+#MainMenu, footer {visibility: hidden;}
+.block-container {padding-top: 4rem; max-width: 1100px;}
+[data-testid="stSidebar"] {background: linear-gradient(180deg, #2B2D6E, #4B3FA6);}
+[data-testid="stSidebar"] * {color: white !important;}
+[data-testid="stSidebar"] input {color: #1F2340 !important;}
+.hero {background: linear-gradient(120deg, #4F8BF9, #8E5CF7, #D946EF); padding: 34px 20px;
+       border-radius: 20px; text-align: center; color: white; margin-bottom: 25px;
+       box-shadow: 0 10px 30px rgba(108, 99, 255, 0.35);}
+.hero h1 {color: white; margin: 0; font-size: 2.6rem;}
+.hero p {margin: 6px 0 0 0; opacity: 0.92; font-size: 1.05rem;}
+.card {background: white; border-radius: 16px; padding: 18px 20px; margin-bottom: 14px;
+       box-shadow: 0 4px 18px rgba(31, 35, 64, 0.08); border: 1px solid #ECECF6;}
+.step {text-align: center;}
+.step .icon {font-size: 2rem;}
+.step h4 {margin: 6px 0 2px 0;}
+.step p {margin: 0; color: #6B7280; font-size: 0.9rem;}
+.chip {display: inline-block; background: #EEEBFF; color: #4B3FA6; padding: 4px 12px;
+       border-radius: 20px; margin: 3px 4px 0 0; font-size: 0.82rem; font-weight: 600;}
+.row {display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;}
+.badge {padding: 3px 12px; border-radius: 20px; font-size: 0.78rem; font-weight: 700; color: white;}
+.bar {background: #E5E7EB; border-radius: 10px; height: 10px; margin-bottom: 8px;}
+.fill {height: 10px; border-radius: 10px;}
+.ok {background: #22C55E;} .mid {background: #F59E0B;} .high {background: #EF4444;}
+.card small {color: #6B7280;}
+.verdict {font-size: 1.6rem; font-weight: 800; color: #4B3FA6;}
+[data-testid="stMetric"] {background: white; border-radius: 16px; padding: 16px;
+       box-shadow: 0 4px 18px rgba(31, 35, 64, 0.08); border: 1px solid #ECECF6;}
+.stButton > button {border-radius: 12px; font-weight: 700; padding: 0.6rem 1rem;}
+button[role="tab"] {font-weight: 700;}
+[data-testid="stSidebar"] button {background: #FFD166; border: none;}
+[data-testid="stSidebar"] button * {color: #1F2340 !important;}
+[data-testid="stForm"] {background: white; border-radius: 16px; padding: 22px;
+       box-shadow: 0 4px 18px rgba(31, 35, 64, 0.08); border: 1px solid #ECECF6;}
+[data-testid="stForm"] [data-testid="stTextInputRootElement"] {
+       background: #F3F2FF !important; border: 1px solid #D9D6F5 !important; border-radius: 10px;}
+[data-testid="stForm"] input {color: #1F2340 !important;}
+[data-testid="stFormSubmitButton"] button {background: linear-gradient(90deg, #4F8BF9, #8E5CF7);
+       color: white; border: none;}
+[data-testid="stFormSubmitButton"] button * {color: white !important;}

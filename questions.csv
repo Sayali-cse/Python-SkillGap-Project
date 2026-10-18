@@ -1,0 +1,73 @@
+role,skill,question,option_a,option_b,option_c,option_d,answer
+Python Developer,Python Basics,Which keyword is used to define a function in Python?,def,func,function,define,A
+Python Developer,Python Basics,What does len() return for a list having 3 items?,2,3,4,Error,B
+Python Developer,Python Basics,Which of these data types is mutable?,tuple,string,list,int,C
+Python Developer,OOP,Which keyword is used to create a class in Python?,class,def,object,new,A
+Python Developer,OOP,Which method is automatically called when an object is created?,__str__,__init__,__del__,__call__,B
+Python Developer,OOP,What is inheritance in OOP?,Hiding data,Repeating a loop,A class acquiring properties of another class,Writing many functions,C
+Python Developer,Data Structures,Which data type stores key-value pairs?,list,tuple,dict,set,C
+Python Developer,Data Structures,Which data type does not allow duplicate values?,list,set,tuple,str,B
+Python Developer,Data Structures,A stack follows which order?,FIFO,LIFO,Random,Sorted,B
+Data Analyst,SQL,Which SQL command is used to retrieve data?,SELECT,INSERT,DELETE,UPDATE,A
+Data Analyst,SQL,Which clause is used to filter rows?,ORDER BY,GROUP BY,WHERE,JOIN,C
+Data Analyst,SQL,Which function counts the number of rows?,SUM,COUNT,AVG,MAX,B
+Data Analyst,Statistics,What is another name for the average?,Median,Mean,Mode,Range,B
+Data Analyst,Statistics,Which measure is the middle value of sorted data?,Mean,Mode,Median,Variance,C
+Data Analyst,Statistics,Which measure is the most frequent value?,Mode,Mean,Median,Range,A
+Data Analyst,Pandas,What is the main table-like structure in Pandas?,DataFrame,Array,Graph,Loop,A
+Data Analyst,Pandas,Which function reads a CSV file in Pandas?,pd.open_csv(),pd.read_csv(),pd.load(),pd.csv(),B
+Data Analyst,Pandas,What does df.head() show?,Last 5 rows,First 5 rows,Column names,Total rows,B
+Software Tester,Testing Basics,What is the main purpose of software testing?,Find defects,Write code,Design the logo,Install software,A
+Software Tester,Testing Basics,Unit testing checks which part of the software?,Whole system,A single component,Network,Hardware,B
+Software Tester,Testing Basics,Testing done without executing the code is called?,Load testing,Smoke testing,Static testing,Stress testing,C
+Software Tester,Bug Reporting,Which item must be in a good bug report?,Steps to reproduce,Personal opinion,Only a title,Nothing else,A
+Software Tester,Bug Reporting,What does severity of a bug mean?,Time needed to fix,Impact of the bug on the system,Name of the tester,Cost of software,B
+Software Tester,Bug Reporting,What is the first status of a newly found bug?,Closed,Fixed,New,Reopened,C
+Software Tester,Test Automation,Which tool is popular for web test automation?,Photoshop,Selenium,Notepad,Excel,B
+Software Tester,Test Automation,Which is a Python testing framework?,pytest,Flask,NumPy,Tkinter,A
+Software Tester,Test Automation,What is regression testing?,Testing only the UI,Testing after the first release only,Re-testing to check old features still work after changes,Testing hardware,C
+Network Engineer,Networking Basics,What is the full form of LAN?,Large Area Network,Local Area Network,Long Access Node,Linked Area Network,B
+Network Engineer,Networking Basics,Which device connects different networks together?,Router,Keyboard,Monitor,Printer,A
+Network Engineer,Networking Basics,How many layers are there in the OSI model?,5,6,7,8,C
+Network Engineer,IP Addressing,How many bits are there in an IPv4 address?,16,32,64,128,B
+Network Engineer,IP Addressing,Which is a valid IPv4 address?,192.168.1.1,300.1.1.1,192.168.1,abc.def.1.1,A
+Network Engineer,IP Addressing,What does DHCP do?,Blocks websites,Encrypts data,Assigns IP addresses automatically,Stores files,C
+Network Engineer,Network Security,What is the main purpose of a firewall?,Increase speed,Filter network traffic,Store data,Print documents,B
+Network Engineer,Network Security,Which port does HTTPS use by default?,80,21,443,25,C
+Network Engineer,Network Security,What does a VPN provide?,An encrypted tunnel,Faster RAM,More storage,A new monitor,A
+Python Developer,Python Basics,Which symbol is used to write a single-line comment in Python?,#,//,--,**,A
+Python Developer,Python Basics,What is the data type of the value 3.14?,int,float,str,bool,B
+Python Developer,Python Basics,Which keyword is used to stop a loop immediately?,continue,pass,break,exit,C
+Python Developer,OOP,What does self represent inside a class method?,The current object,A module,A loop,A file,A
+Python Developer,OOP,Which OOP concept means hiding internal details of a class?,Inheritance,Encapsulation,Looping,Importing,B
+Python Developer,OOP,Which concept allows one function name to work in many forms?,Loops,Recursion,Polymorphism,Slicing,C
+Python Developer,Data Structures,Which method adds an item at the end of a list?,add(),append(),insert_end(),push_back(),B
+Python Developer,Data Structures,A queue follows which order?,FIFO,LIFO,Random,Sorted,A
+Python Developer,Data Structures,Which data type is immutable?,list,dict,set,tuple,D
+Data Analyst,SQL,Which command removes rows from a table?,DELETE,SELECT,CREATE,ALTER,A
+Data Analyst,SQL,Which clause is used to sort the result?,SORT,ORDER BY,ARRANGE,GROUP,B
+Data Analyst,SQL,Which JOIN returns only the matching rows from both tables?,OUTER JOIN,CROSS JOIN,INNER JOIN,SELF JOIN,C
+Data Analyst,Statistics,What is the difference between the highest and lowest value called?,Mean,Mode,Median,Range,D
+Data Analyst,Statistics,What does standard deviation measure?,Spread of the data,Total of the data,Count of the data,Name of the data,A
+Data Analyst,Statistics,Which chart shows the distribution of one numeric column?,Table,Histogram,Flowchart,Map,B
+Data Analyst,Pandas,Which function gives summary statistics of a DataFrame?,df.summary(),df.stats(),df.describe(),df.total(),C
+Data Analyst,Pandas,Which function removes missing values?,fillna(),dropna(),isnull(),copy(),B
+Data Analyst,Pandas,How do you select a column named age from df?,df["age"],df(age),df{age},df.[age],A
+Software Tester,Testing Basics,What is black box testing?,Testing with full code knowledge,Testing without knowing the internal code,Testing only hardware,Testing only databases,B
+Software Tester,Testing Basics,Which testing checks the whole system together?,Unit testing,Code review,System testing,Debugging,C
+Software Tester,Testing Basics,What is a test case?,A set of steps with an expected result,A type of bug,A programming language,A hardware device,A
+Software Tester,Bug Reporting,Which field tells how urgent it is to fix a bug?,Severity,Priority,Title,Browser,B
+Software Tester,Bug Reporting,Which is the best bug title?,It is broken,Bug 1,Please check,Login button does nothing after clicking,D
+Software Tester,Bug Reporting,How does a screenshot help in a bug report?,Deleting the bug,Making the report longer,Understanding the problem clearly,Fixing the code,C
+Software Tester,Test Automation,What does a test script do?,Writes the bug report,Installs Windows,Designs the UI,Runs tests automatically,D
+Software Tester,Test Automation,Which tests are best for automation?,Tests that run again and again,One-time tests,Tests needing human opinion,Tests of colour choice,A
+Software Tester,Test Automation,What does assert do in pytest?,Prints a message,Checks if a condition is true,Imports a library,Creates a file,B
+Network Engineer,Networking Basics,Which device connects computers inside a LAN?,Switch,Projector,Scanner,Speaker,A
+Network Engineer,Networking Basics,What is the full form of WAN?,Wireless Area Node,Wide Area Network,Web Access Network,Wired Area Network,B
+Network Engineer,Networking Basics,Which protocol is used to load web pages?,FTP,SMTP,HTTP,SSH,C
+Network Engineer,IP Addressing,What is 127.0.0.1 called?,Broadcast address,Gateway address,Loopback address,Public address,C
+Network Engineer,IP Addressing,What does DNS do?,Converts domain names to IP addresses,Blocks viruses,Stores emails,Prints pages,A
+Network Engineer,IP Addressing,How many bits are there in an IPv6 address?,256,32,64,128,D
+Network Engineer,Network Security,Which of these is a strong password?,123456,password,Tr@in#2026Xy,myname,C
+Network Engineer,Network Security,What is phishing?,Fake messages used to steal information,A fast internet,A type of cable,A backup method,A
+Network Engineer,Network Security,What does encryption do?,Deletes data,Converts data into unreadable code,Speeds up the network,Compresses images,B

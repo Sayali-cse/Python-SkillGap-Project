@@ -1,0 +1,182 @@
+[
+    {
+        "date": "05-Oct-2026 01:52 PM",
+        "user_id": 1,
+        "name": "Bhakti Jadhav",
+        "role": "Python Developer",
+        "overall_percent": 22,
+        "results": [
+            {
+                "skill": "Python Basics",
+                "score": 2,
+                "total": 3,
+                "percent": 67,
+                "level": 2,
+                "level_name": "Intermediate",
+                "required": 3,
+                "required_name": "Advanced",
+                "gap": 1,
+                "priority": "Medium"
+            },
+            {
+                "skill": "OOP",
+                "score": 0,
+                "total": 3,
+                "percent": 0,
+                "level": 1,
+                "level_name": "Basic",
+                "required": 2,
+                "required_name": "Intermediate",
+                "gap": 1,
+                "priority": "Medium"
+            },
+            {
+                "skill": "Data Structures",
+                "score": 0,
+                "total": 3,
+                "percent": 0,
+                "level": 1,
+                "level_name": "Basic",
+                "required": 2,
+                "required_name": "Intermediate",
+                "gap": 1,
+                "priority": "Medium"
+            }
+        ]
+    },
+    {
+        "date": "11-Oct-2026 06:35 PM",
+        "user_id": 1,
+        "name": "Bhakti Jadhav",
+        "role": "Data Analyst",
+        "overall_percent": 33,
+        "results": [
+            {
+                "skill": "SQL",
+                "score": 0,
+                "total": 3,
+                "percent": 0,
+                "level": 1,
+                "level_name": "Basic",
+                "required": 3,
+                "required_name": "Advanced",
+                "gap": 2,
+                "priority": "High"
+            },
+            {
+                "skill": "Statistics",
+                "score": 1,
+                "total": 3,
+                "percent": 33,
+                "level": 1,
+                "level_name": "Basic",
+                "required": 2,
+                "required_name": "Intermediate",
+                "gap": 1,
+                "priority": "Medium"
+            },
+            {
+                "skill": "Pandas",
+                "score": 2,
+                "total": 3,
+                "percent": 67,
+                "level": 2,
+                "level_name": "Intermediate",
+                "required": 3,
+                "required_name": "Advanced",
+                "gap": 1,
+                "priority": "Medium"
+            }
+        ]
+    },
+    {
+        "date": "11-Oct-2026 07:40 PM",
+        "user_id": 1,
+        "name": "Bhakti Jadhav",
+        "role": "Python Developer",
+        "overall_percent": 44,
+        "results": [
+            {
+                "skill": "Python Basics",
+                "score": 2,
+                "total": 3,
+                "percent": 67,
+                "level": 2,
+                "level_name": "Intermediate",
+                "required": 3,
+                "required_name": "Advanced",
+                "gap": 1,
+                "priority": "Medium"
+            },
+            {
+                "skill": "OOP",
+                "score": 0,
+                "total": 3,
+                "percent": 0,
+                "level": 1,
+                "level_name": "Basic",
+                "required": 2,
+                "required_name": "Intermediate",
+                "gap": 1,
+                "priority": "Medium"
+            },
+            {
+                "skill": "Data Structures",
+                "score": 2,
+                "total": 3,
+                "percent": 67,
+                "level": 2,
+                "level_name": "Intermediate",
+                "required": 2,
+                "required_name": "Intermediate",
+                "gap": 0,
+                "priority": "No gap"
+            }
+        ]
+    },
+    {
+        "date": "11-Oct-2026 07:42 PM",
+        "user_id": 1,
+        "name": "Bhakti Jadhav",
+        "role": "Python Developer",
+        "overall_percent": 33,
+        "results": [
+            {
+                "skill": "Python Basics",
+                "score": 0,
+                "total": 3,
+                "percent": 0,
+                "level": 1,
+                "level_name": "Basic",
+                "required": 3,
+                "required_name": "Advanced",
+                "gap": 2,
+                "priority": "High"
+            },
+            {
+                "skill": "OOP",
+                "score": 1,
+                "total": 3,
+                "percent": 33,
+                "level": 1,
+                "level_name": "Basic",
+                "required": 2,
+                "required_name": "Intermediate",
+                "gap": 1,
+                "priority": "Medium"
+            },
+            {
+                "skill": "Data Structures",
+                "score": 2,
+                "total": 3,
+                "percent": 67,
+                "level": 2,
+                "level_name": "Intermediate",
+                "required": 2,
+                "required_name": "Intermediate",
+                "gap": 0,
+                "priority": "No gap"
+            }
+        ]
+    }
+]
